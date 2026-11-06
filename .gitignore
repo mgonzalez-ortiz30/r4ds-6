@@ -1,2 +1,5 @@
 analysis_files
 
+data/*.duckdb
+
+analysis_cache
